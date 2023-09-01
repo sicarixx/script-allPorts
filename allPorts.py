@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Created by F1neg4n
+# Created by Sicarixx
 
 import os
 
